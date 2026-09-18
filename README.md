@@ -1,15 +1,16 @@
-# Vinicius Neves — Portfolio
+# Vinicius Neves — Portfólio
 
-Bilingual personal portfolio in Portuguese and English, featuring Hidden Court and E-commerce Health.
+Meu site pessoal de apresentação, com informações sobre minha trajetória, competências e projetos nas áreas de Data Analytics, Business Intelligence e Sports Analytics.
 
-## Publish
+Disponível em português e inglês.
 
-In Settings → Pages select Deploy from a branch, branch `main`, folder `/ (root)`, then Save.
+🔗 **Acesse:** https://vneves9723.github.io
 
-Website: https://vneves9723.github.io
+## Projetos apresentados
 
-## Develop
+- **Hidden Court:** análise preditiva aplicada ao scouting da NBA.
+- **E-commerce Health:** estudo de SQL e BI sobre crescimento e desempenho operacional.
 
-Run `python -m http.server 8000` in this directory and visit http://localhost:8000.
+## Tecnologias
 
-Edit `index.html` for Portuguese text, `app.js` for English translations, and `style.css` for appearance. No dependencies or build required.
+HTML · CSS · JavaScript
